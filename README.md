@@ -1,7 +1,7 @@
 # Mandelbrot Set
 This project helps user visualize the convergence and stability of the Mandelbrot set for educational purposes. After reading the James Gleick book "Chaos" I was motivated to code this complex figure to showcase few properties of the set. 
 
-By moving the cursor inside the Canvas blue and red dots are drawn indicating stable and unstable points, respectively. The black dots show the stability pattern by iterating using the following iteration rule $z_{n+1} = z_{n} + c$ where $c=0$. Further version of the software can account for values of $c \neq 0$
+By moving the cursor inside the Canvas blue and red dots are drawn indicating stable and unstable points, respectively. The black dots show the stability pattern by iterating using the following iteration rule $z_{n+1} = z_{n} + c$ where $c=0$. 
 
 <b>Specifications:</b>
 - Language: Xojo (version 2024 Release 1)
